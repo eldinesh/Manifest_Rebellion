@@ -119,6 +119,7 @@
   <!-- Vendor -->
   <project path="vendor/gapps" name="vendor_gapps" remote="rebellion-gitlab" clone-depth="1" />
   <project path="vendor/rebellion" name="vendor_Rebellion" remote="rebellion" />
+  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="rebellion" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="rebellion" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" groups="qcom,pdk-qcom" remote="rebellion" />
   <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" groups="qcom,pdk-qcom" remote="rebellion"  />
