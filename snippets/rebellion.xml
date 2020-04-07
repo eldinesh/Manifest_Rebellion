@@ -87,11 +87,12 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="rebellion" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="rebellion" />
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" groups="pdk,tradefed" remote="rebellion" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="rebellion" />
   <project path="packages/apps/RebellionSettings" name="packages_apps_RebellionSettings" remote="rebellion" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="rebellion" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="rebellion" />
   <project path="packages/apps/Snap" name="packages_apps_Snap" remote="rebellion" />
-  <!-- project path="packages/apps/Updates" name="packages_apps_Updates" groups="pdk-fs" remote="rebellion" -->
+  <project path="packages/apps/Updates" name="packages_apps_Updater" remote="rebellion" />
   <project path="packages/apps/Terminal" name="packages_apps_Terminal" remote="rebellion" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="rebellion" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" remote="rebellion" />
@@ -101,6 +102,7 @@
   <project path="packages/overlays/Themes" name="packages_overlays_Themes" remote="rebellion" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="rebellion" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="rebellion" />
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="rebellion" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="rebellion" />
