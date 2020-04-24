@@ -74,6 +74,7 @@
   <project path="frameworks/av" name="android_frameworks_av" groups="pdk" remote="rebellion" />
   <project path="frameworks/base" name="Frameworks_Base" remote="rebellion" />
   <project path="frameworks/native" name="android_frameworks_native" remote="rebellion" />
+  <project path="frameworks/optnet/ims" name="frameworks_opt_net_ims" remote="rebellion" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" groups="pdk" remote="rebellion" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="rebellion" />
 
