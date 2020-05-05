@@ -45,6 +45,8 @@
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" groups="qcom,pdk-qcom" remote="rebellion" />
 
   <!-- External -->
+  <project path="external/asus/stitchimage" name="external_asus_StitchImage" remote="rebellion" />
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="rebellion" />
   <project path="external/selinux" name="android_external_Selinux" groups="pdk" remote="rebellion" />
   <project path="external/tinycompress" name="android_external_Tinycompress" groups="pdk" remote="rebellion" />
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" groups="pdk" remote="rebellion" />
