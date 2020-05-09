@@ -91,6 +91,7 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="rebellion" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="rebellion" />
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" groups="pdk,tradefed" remote="rebellion" />
+  <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="rebellion" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="rebellion" />
   <project path="packages/apps/RebellionSettings" name="packages_apps_RebellionSettings" remote="rebellion" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="rebellion" />
