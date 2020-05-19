@@ -15,6 +15,7 @@ Credits:
  * [**LineageOS**](https://github.com/LineageOS)
  * [**PixelExperience**](https://github.com/PixelExperience)
  * [**Havoc OS**](https://github.com/Havoc-OS)
+ * [**MSM-Xtended**](https://github.com/Project-Xtended)
 
 -----------------------------------------------------------------------------
 
