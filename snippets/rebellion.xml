@@ -52,6 +52,7 @@
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" groups="pdk" remote="rebellion" />
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" groups="pdk" remote="rebellion" />
   <project path="external/ant-wireless/ant_service" name="android_external_ant-wireless_ant_service" groups="pdk" remote="rebellion" />
+  <project path="external/libhevc" name="android_external_libhevc" groups="pdk" remote="rebellion" />
 
   <!-- Hals -->
   <project path="hardware/qcom/audio" name="hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="rebellion" />
