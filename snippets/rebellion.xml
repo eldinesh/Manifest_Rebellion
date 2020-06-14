@@ -114,7 +114,7 @@
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="rebellion" />
   <project path="prebuilts/r8" name="android_prebuilts_r8" remote="rebellion" />
-  <project path="prebuilts/tools-extras" name="android_prebuilts_tools-rebellion" remote="rebellion" />
+  <project path="prebuilts/tools-rebellion" name="android_prebuilts_tools-rebellion" remote="rebellion" />
   <project path="prebuilts/clang/host/linux-x86" name="android_prebuilts_clang_host_linux-x86" remote="rebellion" clone-depth="1" />
   <project path="prebuilts/clang/host/linux-x86/clang-6284175" name="prebuilts_clang_host_linux-x86_clang-6284175" remote="rebellion" />
 
